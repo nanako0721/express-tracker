@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <rect width="300" height="300" rx="55" fill="#FFD100"/>
+  <!-- 韵达现行品牌的黑色“达/包裹”图形，不再使用旧版红色 Y 标 -->
+  <path fill="#111111" d="M56 63h76v34H93v31H58V96H39V63zm99 0h42l16 24 17-24h42l-38 53 43 62h-43l-21-31-22 31h-43l44-62zm-93 84h36v42c0 21 13 31 40 31h128v36H135c-45 0-73-22-73-65z"/>
+  <text x="150" y="282" text-anchor="middle" font-size="25" font-family="sans-serif" font-weight="700" fill="#111111">韵达 EXPRESS</text>
+</svg>
